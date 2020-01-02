@@ -1,4 +1,4 @@
-baseURL = "https://jotmja.com"
+baseURL = "https://jotm.netlify.com/"
 defaultContentLanguage = "en"
 defaultContentLanguageInSubdir = true
 disableLanguages = []
